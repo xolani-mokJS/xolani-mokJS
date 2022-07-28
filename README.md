@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xolani-mokJS
 - 👀 I’m interested in Javascript and cloud architecture
 - 🌱 I’m currently learning cloud architecture
-- 💞️ I’m looking to collaborate on anythinf and everything
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me xolanimokhoebane@gmail.com
 
 <!---
